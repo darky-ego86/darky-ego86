@@ -42,10 +42,12 @@ const darky = {
 
 ## My Discord
 
-<div align="center">
-  <a href="https://discord.com/users/1347988025325387776">
-    <img src="https://lanyard.cnrad.dev/api/1347988025325387776?theme=dark&bg=0d1117&borderRadius=10px"/>
-  </a>
+<div>
+  <p align="center">
+    <a href="https://discord.com/users/1347988025325387776">
+      <img src="https://lanyard.cnrad.dev/api/1347988025325387776?theme=dark&idleMessage=Probably%20coding...&showDisplayName=true&hideBadges=false&bg=0d1117">
+    </a>
+  </p>
 </div>
 
 ## 🛠️ Tech Stack
