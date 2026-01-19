@@ -43,7 +43,7 @@ const darky = {
 </div>
 ---
 
-🟣 My Discord (Live Status)
+🟣 My Discord
 
 <div align="center">
   <a href="https://discord.com/users/1347988025325387776">
