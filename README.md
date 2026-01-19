@@ -18,7 +18,6 @@
   </a>
 </div>
 
----
 
 ## 👋 About Me
 
@@ -34,14 +33,12 @@ const darky = {
 };
 ```
 
----
 
 
 
 <div align="center">
   <img src="png/hacker.png" width="450"/>
 </div>
----
 
 ## My Discord
 
@@ -70,14 +67,12 @@ const darky = {
 </div><div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darky-ego86&theme=midnight-purple&hide_border=true"/>
 </div>
----
 
 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darky-ego86&bg_color=0d1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&hide_border=true"/>
 </div>
----
 
 🤝 Connect With Me
 
@@ -86,7 +81,6 @@ const darky = {
     <img src="https://img.shields.io/badge/Discord-Zenkaix-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
----
 
 <!-- ================== FOOTER ================== --><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
