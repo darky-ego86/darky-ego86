@@ -43,21 +43,24 @@ const darky = {
 </div>
 ---
 
-🟣 My Discord
+## My Discord
 
 <div align="center">
   <a href="https://discord.com/users/1347988025325387776">
-    <img src="https://lanyard.cnrad.dev/api/1347988025325387776?theme=dark&idleMessage=Probably%20coding...&bg=0d1117&hideBadges=false"/>
+    <img src="https://lanyard.cnrad.dev/api/1347988025325387776?theme=dark&bg=0d1117&borderRadius=10px"/>
   </a>
 </div>
----
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">   
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 </div>
----
 
 📊 GitHub Stats
 
