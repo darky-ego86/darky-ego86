@@ -37,7 +37,7 @@ const darky = {
 
 
 <div align="center">
-  <img src="png/Hacker.gif" width="450"/>
+  <img src="png/hacker1.png" width="450"/>
 </div>
 
 ## My Discord
