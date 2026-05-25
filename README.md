@@ -40,15 +40,6 @@ const darky = {
   <img src="png/hacker1.png" width="450"/>
 </div>
 
-## My Discord
-
-<div>
-  <p align="center">
-    <a href="https://discord.com/users/1347988025325387776">
-      <img src="https://lanyard.cnrad.dev/api/1347988025325387776?theme=dark&idleMessage=Probably%20coding...&showDisplayName=true&hideBadges=false&bg=0d1117">
-    </a>
-  </p>
-</div>
 
 ## 🛠️ Tech Stack
 
